@@ -1,0 +1,8 @@
+ 1 : (d:)
+ 2 : (cd c?ng du?ng d?n t?i file c?n up)
+ 3 : (git init)
+ 4 : (git remote add origin c?ng du?ng d?n c?a git)
+ 5 : (git sdd *)
+ 6 : (git commit -m "tên file trên git" )
+ 7 : (git push)
+ 8 : (git push --set-upstream origin master)
